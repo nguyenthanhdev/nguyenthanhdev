@@ -14,8 +14,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -54,7 +54,7 @@
 <br>
 <div align=center>
   <a href="#" title="NguyenThanhDev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="NguyenThanhDev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -79,7 +79,7 @@
   <!-- <a href="https://www.linkedin.com/in/nguyenthanhdev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyenthanhdev-linkedin" />
   </a>-->
-  <a href="tel:+84397497259" target="blank">
+  <a href="tel:+84 397 497 259" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/phone.png" alt="nguyenthanhdev-phone" />
   </a>
   <a href="mailto:ltv.nguyenthanh@gmail.com" target="top">
